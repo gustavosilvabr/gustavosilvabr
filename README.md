@@ -3,7 +3,7 @@
     
   <a href="https://github.com/gustavosilvabr">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190px" width="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="290px" width="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="silva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,9 @@
   <img align="center" alt="silva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="silva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
   ## 
+
 <div> 
   <a href="https://www.instagram.com/gust4ps_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ucYmmDZF" target="_blank"><img src="https://img.shields.io/badge/Discord-7493DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
