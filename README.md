@@ -23,10 +23,6 @@
   <a href="https://www.linkedin.com/in/gustavo-silva-71b951207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/gustavosilvabr/gustavosilvabr/blob/output/github-contribution-grid-snake.svg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosilvabr)](https://github.com/gustavosilvabr/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula)
 </div>
 
