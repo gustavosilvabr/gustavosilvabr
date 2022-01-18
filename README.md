@@ -1,6 +1,5 @@
 ## Olá!! Eu sou Gustavo pereira Programador web jr!
-<div align="center">
-    
+<div style="display:inline_block">
   <a href="https://github.com/gustavosilvabr">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
