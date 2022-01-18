@@ -1,8 +1,8 @@
 ## Olá!! Eu sou Gustavo pereira Programador web jr!
 <div align="center">
   <a href="https://github.com/gustavosilvabr">
-  <img height="179em"width="430em" src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="179em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
  ## Tecnelogias que eu uso no meu dia dia
