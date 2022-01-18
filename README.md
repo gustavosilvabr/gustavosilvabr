@@ -2,7 +2,7 @@
 <div align="">
   <a href="https://github.com/gustavosilvabr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="300em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvabr&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
  ## Tecnelogias que eu uso no meu dia dia
