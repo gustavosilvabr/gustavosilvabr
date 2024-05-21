@@ -1,4 +1,4 @@
-## Olá!! Eu sou Gustavo pereira Desenvolvedor Full Stack e Mobile em Formação.
+## Olá!! Eu sou Gustavo pereira Desenvolvedor Full Stack e Mobile.
 <div align="left"
   <a href="https://github.com/gustavosilvabr">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gustavosilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
